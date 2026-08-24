@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shinpeihikaru-art.github.io/seikatsu-money/sitemap.xml
